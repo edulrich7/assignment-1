@@ -1,0 +1,55 @@
+---
+title: "Final Project Proposal"
+author: "Evan Ulrich"
+output: html_document
+---
+
+## Project Title
+
+Analyzing Privacy Risks and Unintended Consequences in Data-Driven Recommendation Systems
+
+## Project Description
+
+The goal of this project is to examine how data-driven recommendation systems can create unintended privacy risks and downstream harm for individuals and groups. Using real-world examples and publicly available datasets, this project will explore how personal data is collected, processed, and ultimately used to influence user behavior.
+
+This topic connects directly to current discussions around data privacy, algorithmic bias, and ethical machine learning practices, particularly in large-scale platforms that rely on user data.
+
+## Research Question
+
+How do recommendation systems contribute to unintended privacy violations, and what design or policy interventions could reduce downstream harm?
+
+## Data Sources
+
+This project will rely on a combination of:
+- Publicly available datasets related to user behavior and recommendations
+- Case studies from the New York Times Privacy Project
+- Supplementary academic and industry sources on machine learning and recommender systems
+
+No personally identifiable information will be used.
+
+## Methods
+
+The analysis will include:
+- Exploratory data analysis using R
+- Visualization of patterns related to recommendation behavior
+- Conceptual analysis connecting observed patterns to privacy risks and unintended consequences
+
+R will be used to clean, analyze, and visualize the data.
+
+## Expected Outcomes
+
+The expected outcome is a clearer understanding of how recommendation systems can unintentionally expose sensitive information or reinforce harmful patterns. The project will also propose high-level recommendations for improving privacy-aware system design.
+
+## Ethical Considerations
+
+Special attention will be paid to ethical issues such as:
+- User consent
+- Data transparency
+- Algorithmic accountability
+- Potential downstream harms
+
+These considerations will be grounded in course readings and discussions.
+
+## Conclusion
+
+This project aims to bridge technical data analysis with ethical reflection, highlighting the importance of responsible data practices in modern machine learning systems.
